@@ -1,0 +1,16 @@
+RFTP Failure Scenario Test File
+
+This file is intentionally used to test failure handling in the system.
+
+
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Vestibulum feugiat, sapien non faucibus tincidunt, justo erat tempus erat,
+id luctus elit odio sit amet turpis.
+
+Repeat block:
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBB
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+
+End of failure test file.
