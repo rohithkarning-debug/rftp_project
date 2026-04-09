@@ -126,7 +126,7 @@ How it Works
 
 Rohith Karning
 
-Rotela Haritej
+Rottela Haritej
 
 Rhea Menon
 
